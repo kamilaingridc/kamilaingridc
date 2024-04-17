@@ -1,4 +1,4 @@
-<img src = "https://i.pinimg.com/originals/90/d8/ea/90d8ea63611dc3af9720d02dc4e577d1.gif"/>
+<img align="center" src = "https://i.pinimg.com/originals/90/d8/ea/90d8ea63611dc3af9720d02dc4e577d1.gif"/>
 
 <div align="center">
   <div align="center">
