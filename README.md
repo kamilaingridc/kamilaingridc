@@ -1,3 +1,5 @@
+<img src = "https://i.pinimg.com/originals/90/d8/ea/90d8ea63611dc3af9720d02dc4e577d1.gif"/>
+
 <div align="center">
   <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kamilaingridc&show_icons=true&count_private=true&hide_border=true&title_color=E078EF&icon_color=785692&text_color=2283A2&bg_color=0d1117" alt="github stats" /> 
