@@ -9,7 +9,7 @@
 
 
   
-
+<br>
 <div align="center">
   <div align="center">
   <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=kamilaingridc&hide_border=true&show_icons=true&title_color=C0C0C0&text_color=C0C0C0&bg_color=0d1117&hide=html,css">
