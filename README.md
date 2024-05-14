@@ -1,16 +1,14 @@
-<div align="left">
-  <img width="40%" height="60%" src = "https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif"/>
-</div>
+<div style="display: flex"><br>
+  <img align="left" width="40%" height="60%" src = "https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif"/>
 
-<div align="right">
-  <h2>Contatos:</h2>
+  <h2 align="right">Contatos:</h2>
+  <a align="right" href = "mailto:kamilaingridc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a align="right" href="https://www.linkedin.com/in/ingridcarvalhoin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
- <div align="right"> 
-  <a href = "mailto:kamilaingridc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ingridcarvalhoin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-</div>
+
+  
 
 <div align="center">
   <div align="center">
