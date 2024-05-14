@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/ingridcarvalhoin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
-  <img align="right" width="40%" height="60%" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif"/>
+  <img align="left" width="40%" height="60%" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif"/>
 </div>
 
 <br><br>
