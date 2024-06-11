@@ -17,6 +17,6 @@
 <br><br>
 <br><br>
 <div align="center">
-  <h2>Spotify:</h2>
+  <h2> </h2>
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=n9q2t9jd2wn2ygusks52vc5mb&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=n9q2t9jd2wn2ygusks52vc5mb&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=a2a9a5&bar_color_cover=false"></a>
 </div>
