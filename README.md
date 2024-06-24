@@ -18,5 +18,5 @@
 <br><br>
 <br><br>
 <div align="center">
-   [![Spotify](https://novatorem-git-main-kamilaingridc-projects.vercel.app/api/spotify)](https://open.spotify.com/user/n9q2t9jd2wn2ygusks52vc5mb)
+   <h2>[![Spotify](https://novatorem-git-main-kamilaingridc-projects.vercel.app/api/spotify)](https://open.spotify.com/user/n9q2t9jd2wn2ygusks52vc5mb)</h2>
 </div>
