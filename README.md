@@ -20,5 +20,5 @@
 <h2></h2>
 
 <div align="center">
-  <img src="[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=n9q2t9jd2wn2ygusks52vc5mb&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=878787&bar_color_cover=false)]]>
+  <a src="[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=n9q2t9jd2wn2ygusks52vc5mb&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=878787&bar_color_cover=false)]]>
 </div>
