@@ -19,5 +19,5 @@
 <br><br>
 <div align="center">
   <h2></h2>
-  [![Spotify](https://spotify-github-profile.kittinanx.com)](https://open.spotify.com/user/n9q2t9jd2wn2ygusks52vc5mb)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=n9q2t9jd2wn2ygusks52vc5mb&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=787878&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </div>
