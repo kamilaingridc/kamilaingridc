@@ -12,9 +12,9 @@
 
 <br><br>
 
-<div align="right">
+<!--<div align="right">
   <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=kamilaingridc&hide_border=true&show_icons=true&title_color=CD7487&text_color=CD7487&bg_color=0d1117&hide=html,css">
-</div>
+</div> -->
 
 <div align="center">
 <br><br>
