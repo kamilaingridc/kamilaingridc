@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center; justify-content: center;">
   <div align="center">
     <h2>Contatos:</h2>
-    <a href="https://www.instagram.com/ingridk_c4776/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.instagram.com/kamilaingridc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="mailto:kamilaingridc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/ingridcarvalhoin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
